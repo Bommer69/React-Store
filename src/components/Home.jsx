@@ -22,7 +22,7 @@ const Home = () => {
       <main>
         <div className="container d-flex">
           <div className="content">
-            <h2>Sản Phẩm Thịnh Hành (1.0)</h2>
+            <h2>Sản Phẩm Thịnh Hành nhat (1.0)</h2>
             <div className="row">
               <div className="col-3 text-center">
                 <img src= {lubu1} alt="DIMOO Búp Bê Vải" className="img-100" />
